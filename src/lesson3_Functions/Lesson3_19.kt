@@ -1,3 +1,5 @@
+package lesson3_Functions
+
 import java.util.Random
 
 // Kotlin Lambdas

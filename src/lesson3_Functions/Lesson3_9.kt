@@ -1,3 +1,5 @@
+package lesson3_Functions
+
 // Using 'when' & passing the result of func
 fun main(args: Array<String>) {
     var fortune: String

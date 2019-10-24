@@ -1,3 +1,5 @@
+package lesson3_Functions
+
 // Random Day
 fun main(args: Array<String>) {
     var fortune: String

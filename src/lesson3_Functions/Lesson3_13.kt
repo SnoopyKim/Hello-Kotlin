@@ -1,3 +1,5 @@
+package lesson3_Functions
+
 // Practice Time
 fun main(args: Array<String>) {
     println(whatShouldIDoToday("happy"))

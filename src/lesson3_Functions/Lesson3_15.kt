@@ -1,3 +1,5 @@
+package lesson3_Functions
+
 // Compact Functions
 fun main(args: Array<String>) {
     println(whatShouldIDoToday2("happy"))
